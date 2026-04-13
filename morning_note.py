@@ -40,7 +40,7 @@ RECIPIENT = "will.peatfield@titanwci.com"
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 WORLD_NEWS_API_KEY = os.environ["WORLD_NEWS_API_KEY"]
 
-WATCHLIST_PATH = Path(__file__).parent.parent / "watchlist.csv"
+WATCHLIST_PATH = Path(__file__).parent / "watchlist.csv"
 
 # ── Brand colours ──────────────────────────────────────────────────────────────
 
