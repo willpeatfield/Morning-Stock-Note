@@ -1,0 +1,35 @@
+name: Morning Note
+
+on:
+  # 7:20am GMT (UTC) — correct in winter (GMT)
+  # In summer (BST = UTC+1) this fires at 8:20am UK time — still useful pre-open
+  # If you want it earlier in summer, change "20 7" to "20 6"
+  schedule:
+    - cron: "20 7 * * 1-5"   # Mon–Fri, 7:20am UTC
+
+  # Allows you to trigger manually from GitHub → Actions → Morning Note → Run workflow
+  workflow_dispatch:
+
+jobs:
+  send-morning-note:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r morning_note/requirements.txt
+
+      - name: Run Morning Note
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          WORLD_NEWS_API_KEY: ${{ secrets.WORLD_NEWS_API_KEY }}
+        run: python morning_note/morning_note.py

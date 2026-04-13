@@ -1,0 +1,130 @@
+ticker,sedol,company,exchange
+AIC,BT3GKD0,Achilles Investment,LSE
+ADVT,BMYLGW6,Advancedadvt Ltd,LSE
+AMZN,2000019,Amazon.com Inc,NASDAQ
+AIE,BF50VS4,Ashoka India Equity,LSE
+AZN,0989529,Astrazeneca Plc (Ord),LSE
+AZN,2989044,Astrazeneca Plc (ADR),NASDAQ
+AUGM,BG12XV8,Augmentum Fintech,LSE
+ARR,0063326,Aurora UK Alpha,LSE
+AGT,BLH3CY6,Avi Global Trust,LSE
+BAB,0969703,Babcock International Group,LSE
+BA,0263494,Bae Systems (Ord),LSE
+BAESY,2307152,Bae Systems (ADR),OTC
+BAIL,B3KJH95,Bailiwick Investments,TISE
+BCS,2077756,Barclays Plc (ADR),NYSE
+BARC,3134865,Barclays Plc (Ord),LSE
+BTRW,0081180,Barratt Redrow Plc,LSE
+BRSC,0643610,Blackrock Smaller Companies,LSE
+BRWM,0577485,Blackrock World Mining,LSE
+BP,0798059,Bp (Ord),LSE
+BP,2142621,Bp (ADR),NYSE
+BREE,BM8NFJ8,Breedon Group Plc,LSE
+BLND,0136701,British Land Co,LSE
+CGL,BMWWJM2,Castelnau Group,LSE
+CAV,BGKPX30,Cavendish Plc,LSE
+CHG,B45C9X4,Chemring Group,LSE
+CHRY,BGJYPP4,Chrysalis Investments,LSE
+CTY,0199049,City of London Investment,LSE
+NCYF,B1LZS51,Cqs New City High Yield,LSE
+CREO,BZ1BLL4,Creo Medical Group,LSE
+DEO,2144724,Diageo Plc (ADR),NYSE
+DGI9,BMDKH43,Digital 9 Infrastructure,LSE
+DUKE,BYZSSY6,Duke Capital,LSE
+EZJ,B7KR2P8,Easyjet,LSE
+FCSS,B62Z3C7,Fidelity China Special Situations,LSE
+FSFL,BD37JS9,Financial Services Opportunities,LSE
+FGEN,BJL5FH8,Foresight Environmental Infrastructure,LSE
+FORT,BYYW3C2,Forterra Plc,LSE
+GCP,B6173J1,Gcp Infrastructure,LSE
+GLEN,B4T3BW6,Glencore Plc,LSE
+GRID,BFX3K77,Gresham House Energy Storage,LSE
+GSK,BN7SWP6,Gsk Plc (Ord),LSE
+GSK,BMTZ571,Gsk Plc (ADR),NYSE
+N/A,BVYPNY2,Guinness Global Equity Income Y GBP (Inc),OEF
+N/A,BVYPP13,Guinness Global Equity Income Y GBP (Acc),OEF
+N/A,BVYPP24,Guinness Global Equity Income Y USD,OEF
+N/A,BQXX3M0,Guinness Global Innovation Y USD Acc,OEF
+NATO,BP6N0Z2,Hanetf Future Of Defence ETF,LSE
+HICL,BJLP1Y7,Hicl Infrastructure,LSE
+HOME,BJP5HK1,Home Reit,LSE
+IGG,B06QFB7,Ig Group Holdings,LSE
+INPP,B188SR5,International Public Partnerships,LSE
+JEL,B43SP14,Jersey Electricity,LSE
+JPM,2190385,Jpmorgan Chase & Co,NYSE
+N/A,BFM4684,Jpm Liquidity GBP LVNAV C Acc,MMF
+N/A,5702635,Jpm Liquidity GBP Std VNAV C,MMF
+N/A,7249293,Jpm Liquidity GBP Instl Dis,MMF
+LGEN,0560399,Legal & General Group,LSE
+LIKE,BMYX990,Likewise Group,LSE
+LYG,2544346,Lloyds Banking Group (ADR),NYSE
+LLOY,0870612,Lloyds Banking Group (Ord),LSE
+MNG,BKFB1C6,M&G Plc,LSE
+MAJE,0555522,Majedie Investments,LSE
+MVI,BYTRG23,Marwyn Value Investors,LSE
+N/A,9716472,Maximo Ltd,Private/TISE
+N/A,B3LDLX8,Mi Metropolis Value Fund A Acc,OEF
+MTU,BZ1H9L8,Montanaro UK Smaller Companies,LSE
+NG,BDR05C0,National Grid,LSE
+NRR,BD7XPJ6,Newriver Reit,LSE
+ORIT,BJM0293,Octopus Renewables Infrastructure,LSE
+OIT,BFFK7H5,Odyssean Investment Trust,LSE
+PSH,BS7JCJ8,Pershing Square Holdings (GBP),LSE
+PSH,BG0H5M9,Pershing Square Holdings (USD),LSE
+N/A,BG0NX78,Phoenix Am Huginn Fund Class A,OEF
+N/A,BMC4S76,Phoenix UK Fund A GBP,OEF
+N/A,BMC4S87,Phoenix UK Fund B GBP,OEF
+N/A,B42NVC3,Polar Capital Global Technology I USD,OEF
+N/A,B42W4J8,Polar Capital Global Technology I GBP,OEF
+N/A,BW9HD62,Polar Capital Global Technology I GBP Hdg,OEF
+N/A,BD81XW8,Polar Capital UK Value Opps I GBP,OEF
+N/A,BD81XX9,Polar Capital UK Value Opps I GBP Acc,OEF
+PCGH,B6832P1,Polar Capital Global Healthcare,LSE
+PCT,BR3YV26,Polar Capital Technology Trust,LSE
+POLR,B1GCLT2,Polar Capital Holdings,LSE
+N/A,BD0RGF8,Praxis Group Ltd,Private
+PUK,2706588,Prudential Plc (ADR),NYSE
+PRU,0709954,Prudential Plc (Ord),LSE
+N/A,BV8GHL6,Ranmore Global Equity D GBP Dis,OEF
+N/A,B61ZVB3,Ranmore Global Equity GBP Investor,OEF
+N/A,B746L32,Ranmore Global Equity Investor USD,OEF
+N/A,BZBXDR0,Rathbone Lux Ethical Bond L,OEF
+N/A,B77DQT1,Rathbone Ethical Bond I Acc,OEF
+N/A,B7FQJT3,Rathbone Ethical Bond I Dis,OEF
+RKT,BSZBP53,Reckitt Benckiser Group,LSE
+REL,B2B0DG9,Relx Plc,LSE
+RIO,2740434,Rio Tinto (ADR),NYSE
+RIO,0718875,Rio Tinto (Ord),LSE
+RR,B63H849,Rolls-Royce Holdings,LSE
+SFOR,BFZZM64,S4 Capital,LSE
+SCI,BJYJFX3,Sandpiperci Group,TISE
+N/A,BNXGTW0,Sankofa Strategic,Private
+N/A,BYVJZD1,Schroder Strat Credit A USD Hdg Dis,OEF
+N/A,BJ7BTR8,Schroder Strat Credit C EUR Hdg Dis,OEF
+N/A,BJ7BV49,Schroder Strat Credit C USD Hdg Dis,OEF
+N/A,BJ7BSX7,Schroder Strategic Credit C Acc,OEF
+SMT,BLDYK61,Scottish Mortgage Investment Trust,LSE
+SEE,B0SDC48,Seeing Machines,LSE
+SSIT,BKPG013,Seraphim Space Investment Trust,LSE
+SHEL,BP6MXD8,Shell Plc,LSE
+SPR,BF1QPG2,Springfield Properties,LSE
+SSE,0790873,Sse Plc (Ord),LSE
+SSEZY,B71J662,Sse Plc (ADR),OTC
+SUPR,BF345X1,Supermarket Income Reit,LSE
+N/A,9717840,Svella Plc,Private
+TSCO,BLGZ986,Tesco,LSE
+CIPF,B62DS15,Channel Islands Property Fund,TISE
+TRIG,BBHX2H9,Renewables Infrastructure Group,LSE
+N/A,BZ6VKP6,Tideway Titan Hybrid Cap Bd A GBP,OEF
+N/A,BZ6VKQ7,Tideway Titan Hybrid Cap Bd B GBP,OEF
+N/A,BD9H0Q8,Tideway Titan Hybrid Cap Bd D EUR,OEF
+N/A,BHR3YZ3,Tideway Titan Hybrid Cap Bd E USD,OEF
+SMIF,BJVDZ94,Twentyfour Select Monthly Income,LSE
+ULVR,BVZK7T9,Unilever Plc,LSE
+UEM,BD45S96,Utilico Emerging Markets,LSE
+VARE,BM9BZK2,Various Eateries,LSE
+VOD,BH4HKS3,Vodafone Group (Ord),LSE
+VOD,BK019T4,Vodafone Group (ADR),NASDAQ
+WTB,B1KJJ40,Whitbread,LSE
+WWH,BN455J5,Worldwide Healthcare Trust,LSE
+YCA,BF50RG4,Yellow Cake Plc,LSE
